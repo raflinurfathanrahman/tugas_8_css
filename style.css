@@ -1,0 +1,26 @@
+body {
+    background: url(/stupa.jpg) fixed;
+}
+.satu {
+    width: 960px;
+    height: 500px;
+    margin: 10px;
+    border: 1px solid black;
+    overflow: scroll;
+    background-color: white;
+    background-image: url(/avocado.jpg);
+    background-size: 50% 250px;
+    background-repeat: repeat-y;
+    color: blue;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold; 
+}
+.dua {
+    text-align: justify;
+    color: green;
+}
+.tiga {
+    color: red;
+}
